@@ -1,0 +1,6 @@
+# C:\Program Files\MongoDB\Server\4.0\data\
+
+node_modules
+config
+
+*.http
